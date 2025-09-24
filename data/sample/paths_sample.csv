@@ -1,0 +1,4 @@
+week_id,dma_id,channel_id,user_id,touches,first_touch,last_touch,assist_touches,qualified_view,conv_value
+202452,623,10,u1,3,1,1,1,1,19.99
+202452,623,20,u2,2,1,1,0,0,0.00
+202452,623,30,u3,1,1,1,0,1,12.49

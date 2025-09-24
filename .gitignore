@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# dbt & artifacts
+target/
+dbt_packages/
+logs/
+
+# OS & editor
+.DS_Store
+.idea/
+.vscode/
+
+# Data
+data/sample/*.parquet
+data/sample/*.json
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints
+
+# Build
+dist/
+build/

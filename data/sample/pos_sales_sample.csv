@@ -1,0 +1,4 @@
+week_id,dma_id,retailer_id,product_id,units_sold,revenue_usd,inventory_on_hand,promo_flag
+202451,623,1,1001,21000,189000.00,12000,false
+202452,623,1,1001,23250,209250.00,10000,false
+202453,623,1,1001,22500,202500.00,8000,true

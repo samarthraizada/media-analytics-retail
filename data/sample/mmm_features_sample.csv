@@ -1,0 +1,4 @@
+week_id,dma_id,spend_ctv_adstock,spend_yt_adstock,spend_meta_adstock,spend_search_adstock,spend_display_adstock,google_trends_norm,temp_avg_f,promo_intensity_idx,inventory_cap_idx,season_sin,season_cos,units_sold
+202451,623,120000,80000,60000,30000,15000,0.65,78.2,0.2,0.95,0.12,0.99,21000
+202452,623,140000,90000,62000,33000,12000,0.70,79.0,0.2,0.96,0.18,0.98,23250
+202453,623,130000,85000,58000,29000,11000,0.68,77.5,0.1,0.97,0.24,0.97,22500
