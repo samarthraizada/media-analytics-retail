@@ -1,7 +1,7 @@
 
 # P&G Retailer-Fulfilled Media Analytics (AWS Reference Project)
 
-An end-to-end, interview-ready reference implementation for **Media Analytics & Attribution** in a **retailer-fulfilled** world (e.g., P&G → Amazon/Walmart/Target).
+An end-to-end, interview-ready reference implementation for **Media Analytics & Attribution** in a **retailer-fulfilled** world (e.g., Customer → Amazon/Walmart/Target).
 
 ## What this repo contains
 - **SQL schemas** for Redshift
