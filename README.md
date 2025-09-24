@@ -1,6 +1,6 @@
 ## 📘 Phase 1: Business Context & Problem
 
-### 🧴 The Product
+###  The Product
 
 A leading consumer packaged goods (CPG) brand is launching a new version of its laundry detergent pods, designed specifically for active lifestyles: targeting gym-goers, athletes, and busy families.
 
@@ -8,7 +8,7 @@ Customers do not purchase this product directly from the brand's website. Instea
 
 ---
 
-### 💰 The Campaign
+###  The Campaign
 
 The brand allocated a **$35 million marketing budget** over **12 weeks** to support the launch.
 
@@ -21,7 +21,7 @@ Spend was distributed across:
 
 ---
 
-### 🎯 The Goals
+###  The Goals
 
 Because the brand doesn’t control the final transaction, it needed to:
 - **Prove that ads are driving real retail purchases**, not just online engagement
@@ -31,7 +31,7 @@ Because the brand doesn’t control the final transaction, it needed to:
 
 ---
 
-### 🧪 The Challenge
+###  The Challenge
 
 After the first month of campaign execution:
 - Ads delivered millions of **impressions**, especially on YouTube and Instagram
@@ -42,7 +42,7 @@ After the first month of campaign execution:
 
 ---
 
-### 📉 Why It’s Complicated
+###  Why It’s Complicated
 
 - The brand **does not have full-funnel user tracking**, since purchases happen on external retailer platforms
 - **Retail data feeds are inconsistent** between partners (Amazon vs. Walmart vs. Target)
@@ -50,7 +50,7 @@ After the first month of campaign execution:
 
 ---
 
-### 🧠 What Leadership Is Asking
+###  What Leadership Is Asking
 
 - Which ad channels are **truly influencing purchases**?
 - Are we **overspending on retargeting** and **undervaluing CTV or YouTube**?
@@ -60,7 +60,7 @@ After the first month of campaign execution:
 
 ---
 
-### 🧩 Translation of Jargon
+###  Translation of Jargon
 
 | Term | Simple Meaning |
 |------|----------------|
@@ -78,7 +78,7 @@ After the first month of campaign execution:
 
 ---
 
-### 🧭 Working Hypotheses
+###  Working Hypotheses
 
 1. **CTV and YouTube are driving true incremental sales** but not getting full credit due to attribution limitations.
 2. **Retargeting (Meta/Instagram)** is over-attributed because it's often the last ad a user sees.
