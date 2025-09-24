@@ -2,7 +2,7 @@
 
 ### 🧴 The Product
 
-A leading consumer packaged goods (CPG) brand is launching a new version of its laundry detergent pods, designed specifically for active lifestyles—targeting gym-goers, athletes, and busy families.
+A leading consumer packaged goods (CPG) brand is launching a new version of its laundry detergent pods, designed specifically for active lifestyles: targeting gym-goers, athletes, and busy families.
 
 Customers do not purchase this product directly from the brand's website. Instead, they click “Find a Retailer” and are redirected to third-party platforms like Amazon, Walmart, or Target to complete the transaction. This means the brand has **no direct visibility into the checkout process or end purchase behavior.**
 
@@ -26,7 +26,7 @@ Spend was distributed across:
 Because the brand doesn’t control the final transaction, it needed to:
 - **Prove that ads are driving real retail purchases**, not just online engagement
 - **Identify which channels actually influence sales**
-- **Forecast regional demand** so that retail partners don’t run out of inventory—or overstock
+- **Forecast regional demand** so that retail partners don’t run out of inventory, or overstock
 - **Eliminate wasted ad spend** and reallocate toward top-performing strategies
 
 ---
